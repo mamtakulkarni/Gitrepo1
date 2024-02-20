@@ -1,0 +1,25 @@
+year_value=2015
+month_value=June
+date_value=20
+
+first_name=Ram
+last_name=kumar
+email=abcdefg@gmail.com
+email_e=@hms.com
+ph_number=9988776655
+bl_group=A+
+designation=Lead Accountants
+qualification=BE
+password=123456
+conf_password=123456
+
+bed_title=Fully-Electric
+bed_description=Electric motor controls are used to raise the head, feet, and height of the bed frame.
+
+edit_data=_bed
+
+bed_name=El-bed
+charges=5000
+bed_type_descrip=Bed with some Adjustable features
+
+new_charges=10000
